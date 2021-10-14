@@ -27,7 +27,7 @@ public class LongestSubstring {
         System.out.println(lengthOfLongestSubstring(s4));
 
     }
-
+    //TODO: room for improvement to pass some test cases
     public static int lengthOfLongestSubstring(String s) {
         int counter = 0;
         int max = Integer.MIN_VALUE;
